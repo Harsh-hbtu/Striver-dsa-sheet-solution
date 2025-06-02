@@ -25,6 +25,8 @@ class Solution(object):
                     matrix[i][j] = 0
 
         return matrix
+    
+    #this the solution for the set matix zero 
 
                 
 
